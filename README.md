@@ -22,7 +22,6 @@
   </a>
 </div>
 
-<br>
 
 <a href="https://www.google.com">
   <img src="https://img.shields.io/badge/Google-%23EA5252.svg?style=for-the-badge&logo=Google&logoColor=white" alt="Google">
