@@ -21,3 +21,8 @@
   <img src="https://img.shields.io/badge/Google-%23EA5252.svg?style=for-the-badge&logo=Google&logoColor=white" alt="Google">
 </a>
 
+
+
+<a href="https://stackoverflow.com">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-%23EA5252.svg?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" alt="Stack Overflow">
+</a>
