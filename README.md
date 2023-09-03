@@ -17,4 +17,7 @@
   </a>
 </div>
 
-![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
+<a href="https://www.google.com">
+  <img src="https://img.shields.io/badge/Google-%23EA5252.svg?style=for-the-badge&logo=Google&logoColor=white" alt="Google">
+</a>
+
