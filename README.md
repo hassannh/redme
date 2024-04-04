@@ -1,5 +1,5 @@
 # Hello Devs, I’m @hassannouhi 
-# i'm currently student @youcode-safi
+# i'm FullStack Web Developer
 #FULLSTUCK WEB DEVELOPER
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hassannh&show_icons=true&theme=aura"> 
 ## How to reach out to me:
